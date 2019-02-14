@@ -1,0 +1,5 @@
+BU number:	B00717154
+emailid:		dthakur1@binghamton.edu
+
+Everything is in a single file named knn.cpp
+Usage as specified.
